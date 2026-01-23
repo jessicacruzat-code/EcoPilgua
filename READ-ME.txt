@@ -10,6 +10,12 @@
 
   =>  About HTML Codex : HTML Codex is one of the top creators and publishers of Free HTML templates, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( https://htmlcodex.com/about-us )
 
+  =>  EcoPilgua es un emprendimiento dedicado a la papelería creativa y sublimación personalizada. El proyecto consistió en diseñar y desarrollar un sitio web moderno y funcional que permitiera mostrar sus productos, fortalecer su presencia digital y mejorar la comunicación con clientes.
+
+Para ello, se adaptó la plantilla Eshopper de ThemeWagon, personalizando su estructura, colores, tipografías e integración de redes sociales. El sitio incorpora un carrusel de imágenes reales, catálogo de productos, secciones informativas y contacto directo por WhatsApp. Además, se optimizó su organización interna y diseño responsivo.
+
+El resultado es un sitio web profesional, coherente con la identidad de EcoPilgua y accesible en distintos dispositivos.
+
   =>  GitHub Link      : https://github.com/jessicacruzat-code/EcoPilgua.git
   =>  Netlify Link     : https://ecopilgua.netlify.app/
 
